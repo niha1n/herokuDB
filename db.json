@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "feedback": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "rating": 5,
+      "text": "This is Feedback 1"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 3,
+      "rating": 4,
+      "text": "This is Feedback 3"
+    },
+    {
+      "text": "updated feedback",
+      "rating": 4,
+      "id": 4
     }
   ]
 }
